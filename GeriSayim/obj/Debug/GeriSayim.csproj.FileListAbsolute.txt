@@ -1,0 +1,14 @@
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\bin\Debug\GeriSayim.exe.config
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\bin\Debug\GeriSayim.exe.manifest
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\bin\Debug\GeriSayim.application
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\bin\Debug\GeriSayim.exe
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\bin\Debug\GeriSayim.pdb
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\obj\Debug\GeriSayim.csproj.AssemblyReference.cache
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\obj\Debug\GeriSayim.Form1.resources
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\obj\Debug\GeriSayim.Properties.Resources.resources
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\obj\Debug\GeriSayim.csproj.GenerateResource.cache
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\obj\Debug\GeriSayim.csproj.CoreCompileInputs.cache
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\obj\Debug\GeriSayim.exe.manifest
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\obj\Debug\GeriSayim.application
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\obj\Debug\GeriSayim.exe
+C:\Users\By.Akms\source\repos\GeriSayim\GeriSayim\obj\Debug\GeriSayim.pdb
